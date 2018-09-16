@@ -1,0 +1,21 @@
+{
+  "status":0,
+  "message":[
+    {
+      "userName":"匿名用户",
+      "add_time":"2012-02-19",
+      "comment":"我要上墙"
+    },
+    {
+      "userName":"匿名用户",
+      "add_time":"2012-02-18",
+      "comment":"我要上墙"
+    },
+    {
+      "userName":"匿名用户",
+      "add_time":"2012-02-16",
+      "comment":"我要上墙"
+    }
+
+  ]
+}

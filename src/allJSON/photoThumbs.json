@@ -1,0 +1,10 @@
+{
+  "status":0,
+  "message":[
+    {"src":"../img/betiu.jpg","msrc":"../img/betiu.jpg"},
+    {"src":"../img/betiu1.jpg","msrc":"../img/betiu1.jpg"},
+    {"src":"../img/betiu2.jpg","msrc":"../img/betiu2.jpg"},
+    {"src":"../img/betiu3.jpg","msrc":"../img/betiu3.jpg"},
+    {"src":"../img/betiu4.jpg","msrc":"../img/betiu4.jpg"}
+  ]
+}

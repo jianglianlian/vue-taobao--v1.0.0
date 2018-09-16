@@ -1,0 +1,4 @@
+#将代码放入仓库时忽略的文件
+node_modules
+.idea
+.git
